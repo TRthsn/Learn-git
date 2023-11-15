@@ -2,3 +2,8 @@ First branch
 First Checkout
 
 The 2nd attempt failed, this is the 3rd one 
+The 3nd attempt failed, this is the 4rd one 
+The 4nd attempt Success, this is Merge
+The 5nd attempt Success, this is Rebase
+
+
